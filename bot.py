@@ -52,4 +52,5 @@ if not TOKEN:
 
 # Executa o bot
 print("Iniciando o bot...")
+print(".")
 bot.run(TOKEN)
