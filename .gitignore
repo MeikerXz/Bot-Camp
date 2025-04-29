@@ -1,0 +1,26 @@
+# Arquivos de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / pacotes
+dist/
+build/
+*.egg-info/
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Arquivos de configuração IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
